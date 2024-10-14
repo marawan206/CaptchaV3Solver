@@ -35,7 +35,7 @@ This Python script automates the solving of Google reCAPTCHA audio challenges us
 1. Update the script to set up your preferred browser (Chrome, Firefox, etc.).
 2. Run the script:
    ```bash
-   python recaptcha_solver.py
+   python CaptchaV3Solver.py
    ```
 
 ### Disclaimer
